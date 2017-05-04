@@ -1,0 +1,9 @@
+[submodule "ReversiBackend"]
+	path = ReversiBackend
+	url = https://github.com/IlRomanenko/ReversiServer.git
+[submodule "ReversiCppPackage"]
+	path = ReversiCppPackage
+	url = https://github.com/IlRomanenko/ReversiCpp.git
+[submodule "ReversiFrontend"]
+	path = ReversiFrontend
+	url = https://github.com/IlRomanenko/ReversiWebServer.git
